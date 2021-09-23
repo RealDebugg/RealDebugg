@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src ="https://github-readme-stats.vercel.app/api?username=RealDebugg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RealDebugg&count_private=true&show_icons=true&theme=dark&include_all_commits" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealDebugg&theme=dark&layout=compact&langs_count=6" />
+</div>
 
 ## Favorite Languages
  - [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
