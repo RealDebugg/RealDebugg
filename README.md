@@ -1,4 +1,8 @@
-### Hi there 👋
+![sickBadgeBro](https://img.shields.io/badge/Experience%20(LUA)-25%5years-blue) ![bloat.png](https://img.shields.io/badge/Bloat-High-red) ![devMan](https://img.shields.io/badge/Applicable%20Skills-None-yellow)
+
+### Wave 👋. insert {{ apparently_quirky_tagline }}
+
+I develop things. Some say well, others say my brain retains a smoothness like no other.
 
 <!--
 **RealDebugg/RealDebugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
