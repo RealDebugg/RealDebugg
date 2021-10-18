@@ -2,7 +2,7 @@
 
 ### Wave 👋. insert {{ apparently_quirky_tagline }}
 
-I develop things. Some say well, others say my brain retains a smoothness like no other.
+I develop things. Some say well, others say my brain retains a smoothness like no other. I main TypeScript/JavaScript and love VUE
 
 <!--
 **RealDebugg/RealDebugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
