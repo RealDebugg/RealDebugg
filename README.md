@@ -1,4 +1,4 @@
-![sickBadgeBro](https://img.shields.io/badge/Experience%20(LUA)-25%20years-blue) ![bloat.png](https://img.shields.io/badge/Bloat-High-red) ![devMan](https://img.shields.io/badge/Applicable%20Skills-None-yellow)
+![sickBadgeBro](https://img.shields.io/badge/Experience%20(LUA)-5%20years-blue) ![bloat.png](https://img.shields.io/badge/Bloat-High-red) ![devMan](https://img.shields.io/badge/Applicable%20Skills-None-yellow)
 
 ### Wave 👋. insert {{ apparently_quirky_tagline }}
 
