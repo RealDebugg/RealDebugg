@@ -1,6 +1,6 @@
 ![bloat.png](https://img.shields.io/badge/Bloat-High-red) ![devMan](https://img.shields.io/badge/Applicable%20Skills-None-yellow)
 
-### Wave 👋. insert {{ apparently_quirky_tagline }}
+### Wave 👋. {{ apparently_quirky_tagline }}
 
 I make things. Things that work but are made badly, some say my code works like jenga, some say it looks like spaghetti
 
