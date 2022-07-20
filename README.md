@@ -2,7 +2,7 @@
 
 ### Wave 👋. insert {{ apparently_quirky_tagline }}
 
-I make things. Things that work but are made badly, some say my code works like the jenga, some say it looks like spaghetti
+I make things. Things that work but are made badly, some say my code works like jenga, some say it looks like spaghetti
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RealDebugg&count_private=true&show_icons=true&theme=dark&include_all_commits" />
