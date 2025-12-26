@@ -1,4 +1,3 @@
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RealDebugg&count_private=true&show_icons=true&theme=dark&include_all_commits" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealDebugg&theme=dark&layout=compact&langs_count=6" />
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=realdebugg&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=realdebugg&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=realdebugg&layout=compact&theme=github_dark)
